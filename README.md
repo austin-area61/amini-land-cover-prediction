@@ -55,5 +55,5 @@ This project is for educational and internship application purposes.
 
 ## 📝 Author
 Developed by **Austin Onyango**
-* 🔗 GitHub: [Your GitHub Profile](https://github.com/austin-area61)
+* 🔗 GitHub: [My GitHub Profile](https://github.com/austin-area61)
 * 📧 Email: austinonyango.area61@gmail.com
