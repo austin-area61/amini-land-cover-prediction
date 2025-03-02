@@ -8,7 +8,7 @@ The goal of this project is to predict land cover types (`building`, `cropland`,
 ## 📂 Project Structure
 ```
 📦 amini-land-cover-prediction
- ┣ 📜 land_cover_model.ipynb    # Jupyter Notebook with the entire workflow
+ ┣ 📜 amini_land_cover_model.ipynb    # Jupyter Notebook with the entire workflow
  ┣ 📜 submission.csv            # Final predictions for submission
  ┣ 📜 Amini Data Science Intern - Technical Assignment.pdf  # Problem statement
  ┣ 📜 .gitignore                # Prevents uploading unnecessary files
